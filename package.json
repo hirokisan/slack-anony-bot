@@ -9,6 +9,7 @@
   "author": "hirokisan",
   "license": "ISC",
   "dependencies": {
-    "@slack/client": "^3.10.0"
+    "@slack/client": "^3.10.0",
+    "dotenv": "^4.0.0"
   }
 }
