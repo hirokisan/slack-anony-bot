@@ -1,6 +1,9 @@
 # ANONYMOUS SLACK BOT
 
 ## PURPOSE
+* This is the app for you when...
+	* You want to communicate with other team member
+	* But do not want to let others know who send message
 
 ## SET UP BEFORE BUILD SLACK BOT APP
 * Create slack bot
