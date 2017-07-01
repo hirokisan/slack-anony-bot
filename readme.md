@@ -2,13 +2,18 @@
 
 ## PURPOSE
 
-## SET UP BEFORE BUILD BOT APP
+## SET UP BEFORE BUILD SLACK BOT APP
+* Create slack bot
+	* [Add an app or integration]=>[Manage]=>[Custom Integrations]=>[Bots]=>[Add Configuration]
 * Create slack channel for each person
 	* e.g, annonymous_ngon,annonymous_troioi
+	* then, invite slack bot
 * Create slack channel for annonymous post
 	* e.g, annonymous
+	* then, invite slack bot
 
-## SET UP AFTER BUILD BOT APP
+## BUILD SLACK BOT APP
+* Deploy Bot app to production server or somewhere
 * Set slack bot api token into .env
 * Set slack annonymous channel_id into .env
 
